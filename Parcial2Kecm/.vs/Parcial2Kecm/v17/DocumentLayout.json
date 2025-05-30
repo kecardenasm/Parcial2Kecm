@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64A4F3-28CD-4C43-8ED4-2C5AC0E30A38}|CpParcial2Kecm\\CpParcial2Kecm.csproj|c:\\users\\kevin\\documents\\sis457\\parcial2_kecm\\parcial2kecm\\cpparcial2kecm\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA64A4F3-28CD-4C43-8ED4-2C5AC0E30A38}|CpParcial2Kecm\\CpParcial2Kecm.csproj|solutionrelative:cpparcial2kecm\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA64A4F3-28CD-4C43-8ED4-2C5AC0E30A38}|CpParcial2Kecm\\CpParcial2Kecm.csproj|C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\cpparcial2kecm\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA64A4F3-28CD-4C43-8ED4-2C5AC0E30A38}|CpParcial2Kecm\\CpParcial2Kecm.csproj|solutionrelative:cpparcial2kecm\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25CA876-C6E3-4096-A557-3CE49653EC83}|ClnParcial2Kecm\\ClnParcial2Kecm.csproj|C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\clnparcial2kecm\\seriecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25CA876-C6E3-4096-A557-3CE49653EC83}|ClnParcial2Kecm\\ClnParcial2Kecm.csproj|solutionrelative:clnparcial2kecm\\seriecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmSerie.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\CpParcial2Kecm\\FrmSerie.cs",
+              "RelativeDocumentMoniker": "CpParcial2Kecm\\FrmSerie.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\CpParcial2Kecm\\FrmSerie.cs",
+              "RelativeToolTip": "CpParcial2Kecm\\FrmSerie.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwEMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:29:58.51Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSerie.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\CpParcial2Kecm\\FrmSerie.cs",
+              "RelativeDocumentMoniker": "CpParcial2Kecm\\FrmSerie.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\CpParcial2Kecm\\FrmSerie.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CpParcial2Kecm\\FrmSerie.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:29:55.301Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerieCln.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\ClnParcial2Kecm\\SerieCln.cs",
+              "RelativeDocumentMoniker": "ClnParcial2Kecm\\SerieCln.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\sis457\\parcial2_kecm\\Parcial2Kecm\\ClnParcial2Kecm\\SerieCln.cs",
+              "RelativeToolTip": "ClnParcial2Kecm\\SerieCln.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:25:57.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

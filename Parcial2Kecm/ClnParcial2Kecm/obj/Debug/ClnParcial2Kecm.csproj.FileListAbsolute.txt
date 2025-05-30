@@ -1,0 +1,15 @@
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\ClnParcial2Kecm.dll.config
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\ClnParcial2Kecm.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\ClnParcial2Kecm.pdb
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\CadParcial2Kecm.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\CadParcial2Kecm.pdb
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\CadParcial2Kecm.dll.config
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\obj\Debug\ClnParcial2Kecm.csproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\obj\Debug\ClnParcial2Kecm.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\obj\Debug\ClnParci.5151D29C.Up2Date
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\obj\Debug\ClnParcial2Kecm.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\ClnParcial2Kecm\obj\Debug\ClnParcial2Kecm.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\bin\Debug\CadParcial2Kecm.dll.config
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\bin\Debug\CadParcial2Kecm.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\bin\Debug\CadParcial2Kecm.pdb
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\obj\Debug\CadParcial2Kecm.csproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\obj\Debug\CadParcial2Kecm.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\obj\Debug\CadParci.EDB547C5.Up2Date
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\obj\Debug\CadParcial2Kecm.dll
+C:\Users\Kevin\Documents\sis457\parcial2_kecm\Parcial2Kecm\CadParcial2Kecm\obj\Debug\CadParcial2Kecm.pdb
