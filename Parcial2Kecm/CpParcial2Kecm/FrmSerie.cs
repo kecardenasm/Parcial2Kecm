@@ -31,6 +31,8 @@ namespace CpParcial2Kecm
             dgvLista.Columns["director"].HeaderText = "Director";
             dgvLista.Columns["episodios"].HeaderText = "Episodios";
             dgvLista.Columns["fechaEstreno"].HeaderText = "Fecha de Estreno";
+            dgvLista.Columns["urlPortada"].HeaderText = "URL de Portada";
+            dgvLista.Columns["idiomaOriginal"].HeaderText = "Idioma Original";
             //dgvLista.Columns["usuarioRegistro"].HeaderText = "Usuario Registro";
             //dgvLista.Columns["fechaRegistro"].HeaderText = "Fecha Registro";
             if (lista.Count > 0) dgvLista.CurrentCell = dgvLista.Rows[0].Cells["titulo"];
@@ -53,6 +55,8 @@ namespace CpParcial2Kecm
             //cbxUnidadMedida.SelectedIndex = -1;
             nudEpisodios.Value = 1;
             dtpFechaEstreno.Value = DateTime.Now.Date;
+            txtUrlPortada.Clear();
+            cbxIdiomaOriginal.SelectedIndex = -1;
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
@@ -64,7 +68,7 @@ namespace CpParcial2Kecm
         private void btnNuevo_Click(object sender, EventArgs e)
         {
             esNuevo = true;
-            Size = new Size(835, 487);
+            Size = new Size(835, 550);
             limpiar(); // Agregar esta línea para limpiar los campos
             txtTitulo.Focus();
         }
@@ -72,7 +76,7 @@ namespace CpParcial2Kecm
         private void btnEditar_Click(object sender, EventArgs e)
         {
             esNuevo = false;
-            Size = new Size(835, 487);
+            Size = new Size(835, 550);
 
             int index = dgvLista.CurrentRow.Index;
             int id = Convert.ToInt32(dgvLista.Rows[index].Cells["id"].Value);
@@ -92,6 +96,8 @@ namespace CpParcial2Kecm
                 // Si la fecha no es válida, usar una fecha por defecto
                 dtpFechaEstreno.Value = new DateTime(2020, 1, 1);
             }
+            txtUrlPortada.Text = serie.urlPortada;
+            cbxIdiomaOriginal.SelectedItem = serie.idiomaOriginal;
             txtTitulo.Focus();
         }
 
@@ -152,6 +158,8 @@ namespace CpParcial2Kecm
                 serie.director = txtDirector.Text.Trim();
                 serie.episodios = (int)nudEpisodios.Value;
                 serie.fechaEstreno = dtpFechaEstreno.Value;
+                serie.urlPortada = txtUrlPortada.Text.Trim();
+                serie.idiomaOriginal = cbxIdiomaOriginal.SelectedItem?.ToString() ?? string.Empty;
                 //serie.usuarioRegistro = "admin";
 
                 if (esNuevo)

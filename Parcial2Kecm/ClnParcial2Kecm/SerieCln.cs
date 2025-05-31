@@ -30,6 +30,8 @@ namespace ClnParcial2Kecm
                 existente.episodios = serie.episodios;
                 existente.fechaEstreno = serie.fechaEstreno;
                 existente.estado = serie.estado;
+                existente.urlPortada = serie.urlPortada;
+                existente.idiomaOriginal = serie.idiomaOriginal;
                 return context.SaveChanges();
             }
         }
